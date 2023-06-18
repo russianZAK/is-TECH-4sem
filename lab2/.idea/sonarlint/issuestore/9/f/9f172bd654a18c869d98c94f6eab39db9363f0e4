@@ -1,0 +1,4 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¢
+l
+java:S1128"ORemove this unused import 'is.technologies.entities.mappers.HouseEntityMapper'.(ûÜà8õ·îó0

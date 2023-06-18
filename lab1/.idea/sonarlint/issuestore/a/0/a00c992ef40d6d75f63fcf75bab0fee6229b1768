@@ -1,0 +1,107 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+ƒ
+java:S1192J"nDefine a constant instead of duplicating this literal "Please enter an integer value between 1 and " 12 times.(ÊÄ
+e
+java:S1192¡"IDefine a constant instead of duplicating this literal "4 - Back" 3 times.(øˆƒ»ıÿÿÿÿ
+v
+java:S1192‡"ZDefine a constant instead of duplicating this literal "Enter the amount of money" 3 times.(ğÎ…¸üÿÿÿÿ
+a
+java:S1301ß"KReplace this "switch" statement by "if" statements to increase readability.(ÌÔa
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(³Àë­ûÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+<	java:S131<""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(ÊÄ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(‚Ñ™Í
+p
+java:S1659d"UDeclare "percentLessFiftyThousand" and all following declarations on a separate line.(°‹óüÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(õ±Ûèşÿÿÿÿ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(¦İ±ÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(³Äúíÿÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(ğ´Í
+M	java:S106t"9Replace this use of System.out or System.err by a logger.(Î…É&
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(šÚ‘ûÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(ÑÌ¹–ûÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(½ÅôÔ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(âØ½Ùøÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ãç¤
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106"9Replace this use of System.out or System.err by a logger.(’¯î­
+N	java:S106¥"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+z
+java:S2142¸"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ
+=	java:S131ª""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S106¹"9Replace this use of System.out or System.err by a logger.(ÊÄ
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106Õ"9Replace this use of System.out or System.err by a logger.(õ¬¿Ê
+O	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+7	java:S131ß""Add a default case to this switch.(ÌÔa
+a
+java:S1155î">Use isEmpty() to check whether the collection is empty or not.(ÀÛ‰ÿüÿÿÿÿ8 ¿‡–ê0
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(€ÈÈ
+O	java:S106õ"9Replace this use of System.out or System.err by a logger.(¢áÀº
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(ıŒÅËüÿÿÿÿ
+T	java:S106ş"9Replace this use of System.out or System.err by a logger.(òÛÛıÿÿÿÿÿ
+N	java:S106‹"9Replace this use of System.out or System.err by a logger.(òá
+N	java:S106’"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+z
+java:S2142¢"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ
+=	java:S131—""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S106£"9Replace this use of System.out or System.err by a logger.(ÊÄ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(áò“ïıÿÿÿÿ
+N	java:S106²"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+z
+java:S2142Å"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ
+=	java:S131·""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ÊÄ
+[
+java:S1854Š"?Remove this useless assignment to local variable "transaction".(Úí Âùÿÿÿÿ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(ÖÙßìúÿÿÿÿ
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(¤Ãç¤
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(š÷µ÷
+O	java:S106â"9Replace this use of System.out or System.err by a logger.(¢áÀº
+a
+java:S1155ê">Use isEmpty() to check whether the collection is empty or not.(Áªí‘üÿÿÿÿ8µ¿‡–ê0
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106ô"9Replace this use of System.out or System.err by a logger.(“°Ç»
+N	java:S106ù"9Replace this use of System.out or System.err by a logger.(ç“ÕU
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(ğÎ…¸üÿÿÿÿ
+L
+java:S1481Š"0Remove this unused "transaction" local variable.(Úí Âùÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(ğÎ…¸üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ğÎ…¸üÿÿÿÿ
+\
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(Îó™¢8»¿‡–ê0
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(’É’Õ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(ÃÀüÈûÿÿÿÿ
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(¼–¾Ç
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(œºÍ
+N	java:S106Í"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+=	java:S131Ñ""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(‚ŒÚåıÿÿÿÿ
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(æÍÜ
+N	java:S106ì"9Replace this use of System.out or System.err by a logger.(ÊÄ
+X
+java:S1854ˆ"<Remove this useless assignment to local variable "mediator".(Ù¾Åúÿÿÿÿ
+X
+java:S1854"<Remove this useless assignment to local variable "mediator".(Ù¾Åúÿÿÿÿ
+X
+java:S1854’"<Remove this useless assignment to local variable "mediator".(Ù¾Åúÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(ñé¹ˆıÿÿÿÿ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(«ÆÑ“úÿÿÿÿ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(éÉ‚™øÿÿÿÿ
+N	java:S106ş"9Replace this use of System.out or System.err by a logger.(™µ+
+O	java:S106"9Replace this use of System.out or System.err by a logger.(£¹ùŒ
+N	java:S106‚"9Replace this use of System.out or System.err by a logger.(™µ+
+I
+java:S1481ˆ"-Remove this unused "mediator" local variable.(Ù¾Åúÿÿÿÿ
+I
+java:S1481"-Remove this unused "mediator" local variable.(Ù¾Åúÿÿÿÿ
+I
+java:S1481’"-Remove this unused "mediator" local variable.(Ù¾Åúÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(Âœ˜Ôúÿÿÿÿ
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ìüº˜8Ã¢½æè0

@@ -1,0 +1,22 @@
+
+E
+java:S3740‰"/Provide the parametrized type for this generic.(Ä«D
+E
+java:S3740 "/Provide the parametrized type for this generic.(ÉáÁp
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù¦·Ëøÿÿÿÿ
+b
+java:S2095u"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+j
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
+c
+java:S2095‹"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095¢"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095="GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+j
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
+b
+java:S2095T"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶Ê°ÿÿÿÿÿ
