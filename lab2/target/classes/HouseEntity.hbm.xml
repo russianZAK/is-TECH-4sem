@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+  <class name="is.technologies.entities.HouseEntity" table="house" schema="buildings_db">
+    <id name="id">
+      <column name="id" sql-type="int(11)"/>
+    </id>
+    <property name="name">
+      <column name="name" sql-type="varchar(255)"/>
+    </property>
+    <property name="buildDate">
+      <column name="build_date" sql-type="date"/>
+    </property>
+    <property name="numFloors">
+      <column name="num_floors" sql-type="int(11)"/>
+    </property>
+    <property name="type">
+      <column name="type" sql-type="enum('residential', 'commercial', 'garage', 'utility')"/>
+    </property>
+    <property name="streetId">
+      <column name="street_id" sql-type="int(11)"/>
+    </property>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,9 @@
+ALTER TABLE House ADD COLUMN material VARCHAR(255);
+CREATE TABLE IF NOT EXISTS Apartment (
+    id SERIAL PRIMARY KEY,
+    number INTEGER NOT NULL,
+    square INTEGER NOT NULL,
+    num_rooms INTEGER NOT NULL,
+    house_id INTEGER NOT NULL,
+    FOREIGN KEY (house_id) REFERENCES House(id) ON DELETE CASCADE
+);
